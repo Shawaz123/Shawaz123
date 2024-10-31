@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shawaz SAIFI</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shawaz123" alt="shawaz123" /></a> </p>
 
-- 🔭 I’m currently working on **JavaScript Frameworks**
+- 🔭 I’m currently working on **JavaScript Frameworks and .net core**
 
-- 🌱 I’m currently learning **Node JS,mongoDB and Express**
-
-- 👯 I’m looking to collaborate on **Frontend Projects**
+- 🌱 I’m proficient in **Node JS,mongoDB and Express**
 
 - 💬 Ask me about **React JS,CSS**
 
